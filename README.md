@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=gr-olaf&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
   </h1>
 </div>
