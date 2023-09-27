@@ -23,7 +23,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Frontend Developer.
 
