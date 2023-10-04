@@ -56,7 +56,7 @@ I am a Frontend Developer.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gr-olaf&theme=dark)](https://git.io/streak-stats)
 
